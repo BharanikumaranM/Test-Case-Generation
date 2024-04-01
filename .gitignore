@@ -3,3 +3,5 @@
 /datagen.txt
 /dataset
 /__pycache__
+/split_test.ipynb
+/split_test.py
