@@ -2,4 +2,6 @@
 /reference.ipynb
 /datagen.txt
 /dataset
-/lightning_logs
+/__pycache__
+/split_test.ipynb
+/split_test.py
