@@ -5,3 +5,6 @@
 /__pycache__
 /split_test.ipynb
 /split_test.py
+/lightning_logs
+/custom-model-bert
+/API.ipynb
